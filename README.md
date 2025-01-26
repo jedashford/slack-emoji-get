@@ -1,4 +1,4 @@
-# slack_emoji_get
+# Slack Emoji Get
 
 This script will access your slack account and grab all emojis (custom and slack's standard emojis) and store in a single json file.
 
